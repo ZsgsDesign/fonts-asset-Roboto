@@ -1,0 +1,13 @@
+{
+    "name": "fonts-asset/roboto",
+    "description": "Roboto for composer.",
+    "type": "fonts-asset",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zsgsdesign",
+            "email": "zsgsdesign@gmail.com"
+        }
+    ],
+    "require": {}
+}
